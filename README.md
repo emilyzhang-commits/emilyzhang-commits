@@ -1,52 +1,20 @@
-# 👋 Hi, I'm Emily Zhang
+# Hi there, I'm Emily 👋
 
-**Data & BI Analyst** | SQL | Python | Tableau | Power BI
+Data & BI Analyst. I like digging into data until it actually tells me something, then explaining it in a way people want to read.
 
----
+## What I work with
 
-## 📊 About Me
+- **SQL & Databases:** PostgreSQL, MySQL, BigQuery, Snowflake
+- **NoSQL & Search:** MongoDB, Elasticsearch
+- **Data Pipelines:** Airbyte, dbt, Docker
+- **Python:** pandas, numpy, matplotlib, plotly, seaborn
+- **ML & Beyond:** time series forecasting, LLMs & RAG (including fine-tuning)
+- **BI & Visualization:** Tableau, Power BI, Excel (pivot tables, VLOOKUP, and beyond)
+- **Everyday tools:** Git/GitHub, Jupyter, data cleaning & EDA
 
-- 🎓 **Information Science**, University of Wisconsin–Madison
-- 📍 Based in Chicago, IL
-- 💼 Seeking Data & BI Analyst roles
-- 📈 Passionate about transforming raw data into actionable business insights
+Want to see any of this in action? Take a look through my repos 🔍
 
----
+## Let's talk
 
-## 🛠️ Technical Skills
-
-**Languages & Databases:**
-- SQL (PostgreSQL, MySQL, BigQuery)
-- Python (pandas, matplotlib, plotly, seaborn)
-
-**BI & Visualization:**
-- Tableau
-- Power BI
-- Excel (pivot tables, VLOOKUP, advanced formulas)
-
-**Other:**
-- Jupyter Notebook
-- Git & GitHub
-- Data cleaning & exploratory data analysis (EDA)
-
----
-
-## 📂 Featured Projects
-
-*Coming soon! I'm building my portfolio with real-world data analysis projects.*
-
-- **Retail Sales Analysis** — Data cleaning, SQL queries, and visualizations
-- **Customer Churn Prediction** — Python-based analysis with actionable insights
-- **BI Dashboard Project** — Tableau/Power BI interactive dashboard
-
----
-
-## 📬 Let's Connect!
-
-- 📧 **Email**: emilyzhang.career@gmail.com
-- 💼 **LinkedIn**: [in/emilyzhang01](https://www.linkedin.com/in/emilyzhang01)
-- 🔗 **GitHub**: [@emilyzhang-commits](https://github.com/emilyzhang-commits)
-
----
-
-*Last updated: August 2026 | Always learning, always analyzing 📊*
+- Email: emilyzhang.career@gmail.com
+- LinkedIn: [in/emilyzhang01](https://www.linkedin.com/in/emilyzhang01)
