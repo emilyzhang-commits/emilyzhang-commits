@@ -6,11 +6,17 @@ Data & BI Analyst specializing in analytics, business intelligence, and data-dri
 ## Technical Stack
 
 **SQL & Databases:** PostgreSQL, MySQL, BigQuery, Snowflake
+
 **NoSQL & Search:** MongoDB, Elasticsearch
+
 **Data Tools:** Airbyte, dbt, Docker
+
 **Python:** pandas, numpy, matplotlib, plotly, seaborn
+
 **Analytics & ML:** Time series forecasting, LLMs & RAG, statistical analysis
+
 **BI & Visualization:** Power BI, Tableau, Excel
+
 **Tools:** Git/GitHub, Jupyter, data cleaning & EDA
 
 
