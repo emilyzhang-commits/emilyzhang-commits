@@ -1,7 +1,6 @@
-# Hi, I'm Emily
+# 👋 Hi, I'm Emily
 
 Data & BI Analyst specializing in analytics, business intelligence, and data-driven decision-making. I build dashboards, uncover actionable insights, and help organizations understand their data.
-
 
 ## Technical Stack
 
@@ -19,11 +18,9 @@ Data & BI Analyst specializing in analytics, business intelligence, and data-dri
 
 **Tools:** Git/GitHub, Jupyter, data cleaning & EDA
 
-
 ## Featured Projects
 
 Check out my pinned repositories to see these technologies in action.
-
 
 ## Get in Touch
 
